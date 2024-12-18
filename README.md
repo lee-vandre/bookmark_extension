@@ -1,2 +1,2 @@
 # bookmark_extension
-youtube video bookmarking extension
+A google chrome extension for bookmarking youtube videos
